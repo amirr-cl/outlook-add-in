@@ -4,7 +4,7 @@ Outlook Add-In Template.
 
 ## Description
 
-A template to get started with office outlook add-in.
+A template to get started with message compose Office Outlook add-in.
 
 ## Getting Started
 
